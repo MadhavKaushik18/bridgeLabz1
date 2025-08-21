@@ -1,3 +1,4 @@
+package com.tech;
 import java.util.*;
 public class sum_of_two_digits {
 	public static void main(String[] args) {

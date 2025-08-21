@@ -1,6 +1,6 @@
 package com.tech;
 import java.util.*;
-public class miles_conversion {
+public class miles_conversion2 {
 	public static void main(String[] args) {
 	    Scanner sc=new Scanner(System.in);
 	    System.out.print("enter the number of kilometer:");

@@ -1,3 +1,4 @@
+package com.tech;
 import java.util.*;
 import java.lang.Math;
 public class power_calculation {

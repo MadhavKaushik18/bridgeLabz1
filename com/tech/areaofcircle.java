@@ -1,3 +1,4 @@
+package com.tech;
 import java.util.*;
 public class areaofcircle {
 	public static void main(String[] args) {

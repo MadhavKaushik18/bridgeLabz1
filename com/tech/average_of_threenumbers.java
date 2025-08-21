@@ -1,3 +1,4 @@
+package com.tech;
 import java.util.*;
 public class average_of_threenumbers {
 	public static void main(String[] args) {
