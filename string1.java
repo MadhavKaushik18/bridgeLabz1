@@ -18,7 +18,8 @@ public class string1 {
         	 System.out.print("String is palindrome");
         }
         else {System.out.print("String is not palindrome");}*/
-		System.out.print("first single occurence;"+firstoccur(s1));
+		//System.out.print("first single occurence;"+firstoccur(s1));
+		System.out.print("hii");
 	}
 	public static boolean isequal(String a,String b) {
 		if(a.length()!=b.length()) return false;
