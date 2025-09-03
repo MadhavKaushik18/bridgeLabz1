@@ -21,9 +21,11 @@ public class datetime3 {
     	DateTimeFormatter f=DateTimeFormatter.ofPattern("dd-MM-yyyy");
     	DateTimeFormatter f1=DateTimeFormatter.ofPattern("yyyy-MM-dd");
     	LocalDate date=LocalDate.parse(s,f);
-    	System.out.println("the date in format:dd-MM-yyyy"+" "+date);
+    	String g=date.format(f);
+    	System.out.println("the date in format:dd-MM-yyyy"+" "+g);
     	LocalDate date1=LocalDate.parse(s1,f1);
-    	System.out.println("the date in format:yyyy-MM-dd"+" "+date1);
+    	String h=date1.format(f1);
+    	System.out.println("the date in format:yyyy-MM-dd"+" "+h);
 	}
 
 }
