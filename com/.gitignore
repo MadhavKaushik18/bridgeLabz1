@@ -9,3 +9,8 @@
 /Product.class
 /Course.class
 /Vehicle.class
+/Student.class
+/Student$PostgraduateStudent.class
+/PostgraduateStudent.class
+/employee.class
+/BankAccount.class
