@@ -160,12 +160,13 @@ public class programmingelements {
 
 	        // question16
 	        
-	        int numberOfStudents;
+	      /*  int numberOfStudents;
 	        System.out.print("Enter number of students: ");
 	        numberOfStudents = sc.nextInt();
 	        int handshakes = (numberOfStudents * (numberOfStudents - 1)) / 2;
 	        System.out.println("The number of possible handshakes is " + handshakes);
-	        
-	    }
+	        */
+	        System.out.print(4%2);
+	        }
 	}
 
