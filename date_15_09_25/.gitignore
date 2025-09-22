@@ -6,3 +6,11 @@
 /Student.class
 /UndergraduateStudent.class
 /Atm_management.class
+/Account.class
+/Atm.class
+/Transaction.class
+/ATM.class
+/CurrentAccount.class
+/MyATM.class
+/SavingsAccount.class
+/TransactionLogger.class
